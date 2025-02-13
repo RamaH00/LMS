@@ -103,8 +103,3 @@ The goal of this project is to design a database for a library system that suppo
 ## **Author**
 Rama Hammad  
 rama.hammad64@gmail.com
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
